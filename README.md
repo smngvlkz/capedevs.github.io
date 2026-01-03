@@ -91,9 +91,9 @@ To add a new post:
 	- date
 	- author
 	
-4.	Write the post content in Markdown.
+3.	Write the post content in Markdown.
 	
-5.	Open a pull request with your changes.
+4.	Open a pull request with your changes.
 
 Once merged, the post will be included in the next build.
 
