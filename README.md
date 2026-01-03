@@ -85,14 +85,18 @@ To add a new post:
 1.	Create a new Markdown file in the content directory.
 	
 2.	Include frontmatter with the following fields:
-	•	title
-	•	description
-	•	date
-	•	author
+   
+- title
+  
+- description
+  
+- date
+  
+- author
 	
-3.	Write the post content in Markdown.
+4.	Write the post content in Markdown.
 	
-4.	Open a pull request with your changes.
+5.	Open a pull request with your changes.
 
 Once merged, the post will be included in the next build.
 
