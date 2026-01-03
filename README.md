@@ -86,13 +86,10 @@ To add a new post:
 	
 2.	Include frontmatter with the following fields:
    
-- title
-  
-- description
-  
-- date
-  
-- author
+	- title
+	- description
+	- date
+	- author
 	
 4.	Write the post content in Markdown.
 	
@@ -109,7 +106,7 @@ Once merged, the post will be included in the next build.
 
 Post layout and styling can be adjusted in:
 
-pages/posts/[slug].js
+`pages/posts/[slug].js`
 
 Global styles are handled via Tailwind CSS.
 
