@@ -42,7 +42,7 @@ The structure and design are intentionally kept minimal and modular so contribut
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/capedevs/capedevs.github.io.git
 ```
 
 2. Navigate into the project directory
